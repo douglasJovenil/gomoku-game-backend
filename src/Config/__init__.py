@@ -1,4 +1,4 @@
-HOST = '127.0.0.1'
+HOST = '0.0.0.0'
 PORT = 6969
 BUFFER_SIZE = 1024
 ENCODING = 'utf-8'
