@@ -1,4 +1,4 @@
-# Gomoku Game Backend
+# Gomoku Game Back-End
 
 Serves the application [Gomoku Game Front-End](https://github.com/douglasJovenil/gomoku-game-frontend). This server is responsible for manage the communication between the players using Sockets.
 
